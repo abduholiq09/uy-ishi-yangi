@@ -1,0 +1,37 @@
+header{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+a{
+    color: white;
+    text-decoration: none;
+   
+    
+}
+nav{
+    width: 300px;
+    justify-content: space-around;
+    display: flex;
+}
+.ak{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 80px;
+    font-weight: 900;
+   width: 500px;
+     margin: 0 auto;
+     padding: 80px;
+}
+.card{
+    width: 393px;
+    height: 396px;
+    text-align: center;
+    margin-top: 50px;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
